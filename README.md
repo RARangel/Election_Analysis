@@ -16,7 +16,7 @@ The winner of the election based on popular vote
 ### Resources
 
 Data Source: election_results.csv
-Software: Python version 3.6.1, Visual Studio Code, 1.38.1
+Software: Python version 3.7, Visual Studio Code, 1.64.2
 
 
 ## Results
