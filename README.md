@@ -12,14 +12,14 @@ County with largest voter percentage
 ### Resources
 
 Data Source: election_results.csv
-[filename](Resources/election_results.csv).
+[file](Resources/election_results.csv).
 
 Software: Python version 3.7, Visual Studio Code, 1.64.2
 
 ## Results
 ### Election statistics
 
-[filename](path/to/filename.xlxs).
+[file](path/to/filename.xlxs).
 
 *	Total Number of Votes:  369,711
 
