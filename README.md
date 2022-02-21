@@ -19,7 +19,7 @@ Software: Python version 3.7, Visual Studio Code, 1.64.2
 ## Results
 ### Election statistics
 
-[file](path/to/filename.xlxs).
+[file](Analysis/election_analysis.txt).
 
 *	Total Number of Votes:  369,711
 
