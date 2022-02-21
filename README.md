@@ -12,27 +12,26 @@ County with largest voter percentage
 ### Resources
 
 Data Source: election_results.csv
+[filename]().
+
 Software: Python version 3.7, Visual Studio Code, 1.64.2
 
 ## Results
 ### Election statistics
-o	Total Number of Votes:  369,711
-o	County Breakdown: Number of votes and the percentage of total votes for each county in the precinct
-    Jefferson: 10.5% (38,855)
-    Denver: 82.8% (306,055)
-    Arapahoe: 6.7% (24,801)
-o	Denver county had the largest number of votes
 
-o	Candidate Breakdown:
-  Candidate: Percentage of Total Votes (Total Number of Votes)
-  Charles Casper Stockham: 23.0% (85,213)
-  Diana DeGette: 73.8% (272,892)
-  Raymon Anthony Doane: 3.1% (11,606)
+[filename](path/to/filename.xlxs).
 
-o	Winning candidate: 
-Diana DeGette
+*	Total Number of Votes:  369,711
 
-##Election-Audit Summary
+*	County Breakdown: Jefferson: 10.5% (38,855); Denver: 82.8% (306,055); Arapahoe: 6.7% (24,801)
+    
+*	Denver county had the largest number of votes
+
+*	Candidate Breakdown: Charles Casper Stockham: 23.0% (85,213); Diana DeGette: 73.8% (272,892); Raymon Anthony Doane: 3.1% (11,606)
+
+*	Winning candidate: Diana DeGette
+
+## Election-Audit Summary
 ### Enhancements / Improvements
 
 With modification, some examples of future use of this code for elections include:
