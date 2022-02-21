@@ -16,6 +16,8 @@ Data Source: election_results.csv
 
 Software: Python version 3.7, Visual Studio Code, 1.64.2
 
+Code: [file](PyPoll_Challenge.py).
+
 ## Results
 ### Election statistics
 
