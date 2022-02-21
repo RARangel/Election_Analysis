@@ -12,7 +12,7 @@ County with largest voter percentage
 ### Resources
 
 Data Source: election_results.csv
-[filename]().
+[filename](Resources/election_results.csv).
 
 Software: Python version 3.7, Visual Studio Code, 1.64.2
 
